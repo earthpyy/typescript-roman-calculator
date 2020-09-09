@@ -1,0 +1,27 @@
+{
+  "name": "typescript-roman-calculator",
+  "version": "1.0.0",
+  "description": "## Problem Description “As a Roman Bookkeeper, I want to add Roman numbers because doing it manually is too tedious.” Given the Roman numerals, (IVXLCDM which means one, five, ten, fifty, hundred, five hundred and a thousand respectively), create two numbers and add them. As we are in Rome there is no such thing as decimals or int, we need to do this with the strings. An example would be “XIV” + “LX” = “LXXIV”",
+  "main": "src/main.ts",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/earthpyy/typescript-roman-calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/earthpyy/typescript-roman-calculator/issues"
+  },
+  "homepage": "https://github.com/earthpyy/typescript-roman-calculator#readme",
+  "devDependencies": {
+    "@types/jest": "^26.0.10",
+    "@types/node": "^14.6.0",
+    "jest": "^26.4.0",
+    "ts-jest": "^26.2.0",
+    "typescript": "^3.9.7"
+  }
+}
